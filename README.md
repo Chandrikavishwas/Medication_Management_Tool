@@ -1,9 +1,11 @@
 # Medication_Management_Tool
 
-#Project Overview
+Project Overview
+
 The Prescription and Medication Management Tool is a user-friendly, interactive platform designed to help patients manage their medications, ensuring they never miss a dose and can easily keep track of prescription renewals. The platform aims to improve patient adherence to prescribed treatment regimens, which is critical for managing chronic conditions and achieving better health outcomes. The tool provides timely reminders, simplifies prescription renewals, and offers a comprehensive history of medication usage.
 
-#Features
+Features
+
 . Medication Reminders: Receive notifications to remind users when it's time to take their medication, ensuring timely adherence to their prescribed schedule.
 
 . Prescription Renewal Tracking: Keep track of upcoming prescription renewal dates and send alerts when it’s time to renew a prescription.
@@ -19,15 +21,16 @@ The Prescription and Medication Management Tool is a user-friendly, interactive 
 . Multiple Device Access: The tool is designed to be responsive and available across multiple devices (e.g., smartphone, tablet, desktop), making it accessible anytime, 
   anywhere.
 
-#Technologies Used
+Technologies Used
 
 . Frontend: HTML, CSS, JavaScript (React or Vue.js)
 
 . Version Control: Git and GitHub for code management.
 
-#Deploy link: https://bespoke-wisp-740897.netlify.app/
+Deploy link: https://bespoke-wisp-740897.netlify.app/
 
-#Project Goal
+Project Goal
+
  The goal of this project is to develop a modern and responsive tool that empowers users to manage their medications effortlessly. The platform will focus on three key 
  features:
 
